@@ -1,0 +1,28 @@
+name: sayteq
+favicon: null
+layout_spectrum: 0.10343314870260656
+typography_spectrum: 0.9933159095235169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.25253848917782307
+  lightness: 0.44252153811976314
+  saturation: 0.7076368604321033
+  rhythmicContrast: 0.6246984722092748
+purpose: []
